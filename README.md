@@ -1,4 +1,4 @@
-# Desktop-Genetics
+# OpenAnalytics
 
 This file has been created for demonstration purpose. 
 The script works in R, and the main job is to find the most similar genes to the query genes or as bioinformatics community calls it "Gene prioritization".
